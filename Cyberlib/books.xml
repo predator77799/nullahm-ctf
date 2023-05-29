@@ -1,0 +1,30 @@
+<library>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <genre>Fiction</genre>
+        <ISBN>978-3-16-148410-0</ISBN>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+        <genre>Fiction</genre>
+        <ISBN>978-0-15-603500-0</ISBN>
+    </book>
+    <book>
+        <title>Nineteen Eighty-Four</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <genre>Dystopian, Political Fiction</genre>
+        <ISBN>978-0-452-28423-4</ISBN>
+    </book>
+    <book hidden="true">
+        <title>The Enigmatic Manuscript</title>
+        <author>J. K. Levenson</author>
+        <year>2023</year>
+        <genre>Mystery</genre>
+	<ISBN>nullahm{d0_y0u_kn0w_7h3_xp@7h?}</ISBN>
+    </book>
+</library>

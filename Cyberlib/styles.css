@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
